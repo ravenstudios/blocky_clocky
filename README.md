@@ -1,4 +1,4 @@
-````md
+
 # Random LED Clock
 
 A random-pattern LED clock built using an RP2040, DS1302 RTC, and 74HC595 shift registers.
